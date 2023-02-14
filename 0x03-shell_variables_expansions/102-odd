@@ -1,0 +1,2 @@
+#!/binbash
+paste -d, - - | cut -d, -f1
